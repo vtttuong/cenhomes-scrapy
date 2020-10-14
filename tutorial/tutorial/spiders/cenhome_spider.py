@@ -35,7 +35,7 @@ class QuotesSpider(scrapy.Spider):
         data = response.json()["payload"]["data"]
         self.log(data["batDongSanDTO"]["id"])
         with open(filename, 'wb') as f:
-            f.write(response.body)
+            f.write(data)
         self.log(type(response))
         self.log(f'Saved file {filename}')
 

@@ -1,1 +1,156 @@
-{"status":0,"payload":{"data":{"batDongSanDTO":{"id":540030,"dlNgachHem":"","dlNgo":"","dlDuong":"Giải Phóng","dlXa":"4","dlHuyen":"Tân Bình","dlTinh":"Hồ Chí Minh","dlDuAn":null,"thuaDatDinhGiaId":null,"dlTungDoDanhDau":106.65736354887487,"dlHoanhDoDanhDau":10.80288889278265,"dlKhoangCachTrucDuongChinh":null,"dlTenTrucDuongChinh":null,"dlKhoangCachDenDuongOto":0.0,"dlUrlAnhMatBang":"/data/image_data_watermark/59/36/5694/540030/540030_mat_bang_1562416392623.jpeg","dlUrlAnhDuongPhiaTruoc":"/data/image_data_watermark/59/36/5694/540030/540030_duong_truoc_bds_1562416391952.jpeg","dlUrlAnhKhac":null,"qmChieuRongViaHe":0.0,"qmChieuRongMatTien":0.0,"qmChieuRongMatDuong":4.0,"qmChieuDaiLonNhat":null,"qmTongDienTichDat":null,"chatLuongNhapLieu":null,"qmChieuRongMatDuongHai":null,"qmChieuRongMatDuongBa":null,"nguonNhapLieu":"KHAO_SAT","dlViTriId":7,"dlViTriTiepGiapId":null,"qmHinhDangLoDatId":null,"mtGiaoThongId":1,"mtMatDoDanCuId":1,"mtTinhTrangCapThoatNuocId":1,"mtTinhTrangHeThongDienId":1,"mtTinhTrangAnNinhTratTuId":1,"mtThongTinLienLacId":null,"loaiBatDongSanId":2,"duAnId":null,"tinh":{"id":59,"tienTo":"Thành phố","ten":"Hồ Chí Minh","tenDayDu":"Thành phố Hồ Chí Minh","tenKhongDau":"thanh pho ho chi minh","idDayDu":"59","moTaThem":null,"trangThai":"DA_PHE_DUYET","nguon":null,"maGop":null,"centerLat":10.823099,"centerLng":106.629664,"bounds":"{\"northeast\": {\"lat\": 11.1602136, \"lng\": 107.0265769}, \"southwest\": {\"lat\": 10.3493704, \"lng\": 106.3638784}}"},"quanHuyen":{"id":36,"tienTo":"Quận","ten":"Tân Bình","tenDayDu":"Quận Tân Bình, Hồ Chí Minh","tenKhongDau":"quan tan binh, ho chi minh","idDayDu":"59_36","moTaThem":null,"trangThai":"DA_PHE_DUYET","nguon":null,"maGop":null,"centerLat":10.801466,"centerLng":106.652597,"bounds":"{\"northeast\": {\"lat\": 10.838184, \"lng\": 106.678676}, \"southwest\": {\"lat\": 10.768911, \"lng\": 106.62787}}","tinhId":59},"phuongXa":{"id":548,"tienTo":"Phường","ten":"4","tenDayDu":"Phường 4, Quận Tân Bình, Hồ Chí Minh","tenKhongDau":"phuong 4, quan tan binh, ho chi minh","idDayDu":"59_36_548","moTaThem":null,"trangThai":"DA_PHE_DUYET","nguon":null,"maGop":null,"centerLat":10.803776,"centerLng":106.657131,"bounds":"{\"northeast\": {\"lat\": 10.816789, \"lng\": 106.6646181}, \"southwest\": {\"lat\": 10.790486, \"lng\": 106.652069}}","gopDiaChi":false,"quanId":36},"duong":{"id":5694,"tienTo":"Đường","ten":"Giải Phóng","tenDayDu":"Đường Giải Phóng, Quận Tân Bình, Hồ Chí Minh","tenKhongDau":"duong giai phong, quan tan binh, ho chi minh","idDayDu":"59_36_5694","moTaThem":null,"trangThai":"DA_PHE_DUYET","nguon":null,"maGop":null,"centerLat":10.802634,"centerLng":106.659061,"bounds":"{\"northeast\": {\"lat\": 10.803075, \"lng\": 106.6605396}, \"southwest\": {\"lat\": 10.8022317, \"lng\": 106.6574768}}","duongChinh":null,"gopDiaChi":false,"quanId":36},"duAn":null,"duongId":5694,"phuongXaId":548,"quanHuyenId":36,"tinhId":59,"congTrinhDTOS":null,"mtTienIches":[{"id":6,"ten":"Giao thông thuận tiện"}],"trangThaiBds":[{"id":1,"ten":"Đã kiểm tra"},{"id":3,"ten":"Đủ điều kiện"},{"id":5,"ten":"Đã bổ sung"}],"thuaDat":null},"congTrinhSubmitDTOSet":[{"congTrinhDTO":{"soNha":"65/10","soTangSan":null,"soTangNha":4.0,"soHam":null,"huongNhaId":5,"urlAnhMatTien":"/data/image_data_watermark/59/36/5694/540030/531089/540030_mat_tien_1562416393098.jpeg","urlAnhTongThe":"/data/image_data_watermark/59/36/5694/540030/531089/540030_tong_the_1562416392856.jpeg","urlAnhMatNgang":"/data/image_data_watermark/59/36/5694/540030/531089/540030_mat_ngang_1562416393335.jpeg","loaiCongTrinhId":12}}]}},"description":"","timestamp":1602607351}
+{
+    "status": 0,
+    "payload": {
+        "data": {
+            "batDongSanDTO": {
+                "id": 540030,
+                "dlNgachHem": "",
+                "dlNgo": "",
+                "dlDuong": "Giải Phóng",
+                "dlXa": "4",
+                "dlHuyen": "Tân Bình",
+                "dlTinh": "Hồ Chí Minh",
+                "dlDuAn": null,
+                "thuaDatDinhGiaId": null,
+                "dlTungDoDanhDau": 106.65736354887487,
+                "dlHoanhDoDanhDau": 10.80288889278265,
+                "dlKhoangCachTrucDuongChinh": null,
+                "dlTenTrucDuongChinh": null,
+                "dlKhoangCachDenDuongOto": 0.0,
+                "dlUrlAnhMatBang": "/data/image_data_watermark/59/36/5694/540030/540030_mat_bang_1562416392623.jpeg",
+                "dlUrlAnhDuongPhiaTruoc": "/data/image_data_watermark/59/36/5694/540030/540030_duong_truoc_bds_1562416391952.jpeg",
+                "dlUrlAnhKhac": null,
+                "qmChieuRongViaHe": 0.0,
+                "qmChieuRongMatTien": 0.0,
+                "qmChieuRongMatDuong": 4.0,
+                "qmChieuDaiLonNhat": null,
+                "qmTongDienTichDat": null,
+                "chatLuongNhapLieu": null,
+                "qmChieuRongMatDuongHai": null,
+                "qmChieuRongMatDuongBa": null,
+                "nguonNhapLieu": "KHAO_SAT",
+                "dlViTriId": 7,
+                "dlViTriTiepGiapId": null,
+                "qmHinhDangLoDatId": null,
+                "mtGiaoThongId": 1,
+                "mtMatDoDanCuId": 1,
+                "mtTinhTrangCapThoatNuocId": 1,
+                "mtTinhTrangHeThongDienId": 1,
+                "mtTinhTrangAnNinhTratTuId": 1,
+                "mtThongTinLienLacId": null,
+                "loaiBatDongSanId": 2,
+                "duAnId": null,
+                "tinh": {
+                    "id": 59,
+                    "tienTo": "Thành phố",
+                    "ten": "Hồ Chí Minh",
+                    "tenDayDu": "Thành phố Hồ Chí Minh",
+                    "tenKhongDau": "thanh pho ho chi minh",
+                    "idDayDu": "59",
+                    "moTaThem": null,
+                    "trangThai": "DA_PHE_DUYET",
+                    "nguon": null,
+                    "maGop": null,
+                    "centerLat": 10.823099,
+                    "centerLng": 106.629664,
+                    "bounds": "{\"northeast\": {\"lat\": 11.1602136, \"lng\": 107.0265769}, \"southwest\": {\"lat\": 10.3493704, \"lng\": 106.3638784}}"
+                },
+                "quanHuyen": {
+                    "id": 36,
+                    "tienTo": "Quận",
+                    "ten": "Tân Bình",
+                    "tenDayDu": "Quận Tân Bình, Hồ Chí Minh",
+                    "tenKhongDau": "quan tan binh, ho chi minh",
+                    "idDayDu": "59_36",
+                    "moTaThem": null,
+                    "trangThai": "DA_PHE_DUYET",
+                    "nguon": null,
+                    "maGop": null,
+                    "centerLat": 10.801466,
+                    "centerLng": 106.652597,
+                    "bounds": "{\"northeast\": {\"lat\": 10.838184, \"lng\": 106.678676}, \"southwest\": {\"lat\": 10.768911, \"lng\": 106.62787}}",
+                    "tinhId": 59
+                },
+                "phuongXa": {
+                    "id": 548,
+                    "tienTo": "Phường",
+                    "ten": "4",
+                    "tenDayDu": "Phường 4, Quận Tân Bình, Hồ Chí Minh",
+                    "tenKhongDau": "phuong 4, quan tan binh, ho chi minh",
+                    "idDayDu": "59_36_548",
+                    "moTaThem": null,
+                    "trangThai": "DA_PHE_DUYET",
+                    "nguon": null,
+                    "maGop": null,
+                    "centerLat": 10.803776,
+                    "centerLng": 106.657131,
+                    "bounds": "{\"northeast\": {\"lat\": 10.816789, \"lng\": 106.6646181}, \"southwest\": {\"lat\": 10.790486, \"lng\": 106.652069}}",
+                    "gopDiaChi": false,
+                    "quanId": 36
+                },
+                "duong": {
+                    "id": 5694,
+                    "tienTo": "Đường",
+                    "ten": "Giải Phóng",
+                    "tenDayDu": "Đường Giải Phóng, Quận Tân Bình, Hồ Chí Minh",
+                    "tenKhongDau": "duong giai phong, quan tan binh, ho chi minh",
+                    "idDayDu": "59_36_5694",
+                    "moTaThem": null,
+                    "trangThai": "DA_PHE_DUYET",
+                    "nguon": null,
+                    "maGop": null,
+                    "centerLat": 10.802634,
+                    "centerLng": 106.659061,
+                    "bounds": "{\"northeast\": {\"lat\": 10.803075, \"lng\": 106.6605396}, \"southwest\": {\"lat\": 10.8022317, \"lng\": 106.6574768}}",
+                    "duongChinh": null,
+                    "gopDiaChi": false,
+                    "quanId": 36
+                },
+                "duAn": null,
+                "duongId": 5694,
+                "phuongXaId": 548,
+                "quanHuyenId": 36,
+                "tinhId": 59,
+                "congTrinhDTOS": null,
+                "mtTienIches": [
+                    {
+                        "id": 6,
+                        "ten": "Giao thông thuận tiện"
+                    }
+                ],
+                "trangThaiBds": [
+                    {
+                        "id": 1,
+                        "ten": "Đã kiểm tra"
+                    },
+                    {
+                        "id": 3,
+                        "ten": "Đủ điều kiện"
+                    },
+                    {
+                        "id": 5,
+                        "ten": "Đã bổ sung"
+                    }
+                ],
+                "thuaDat": null
+            },
+            "congTrinhSubmitDTOSet": [
+                {
+                    "congTrinhDTO": {
+                        "soNha": "65/10",
+                        "soTangSan": null,
+                        "soTangNha": 4.0,
+                        "soHam": null,
+                        "huongNhaId": 5,
+                        "urlAnhMatTien": "/data/image_data_watermark/59/36/5694/540030/531089/540030_mat_tien_1562416393098.jpeg",
+                        "urlAnhTongThe": "/data/image_data_watermark/59/36/5694/540030/531089/540030_tong_the_1562416392856.jpeg",
+                        "urlAnhMatNgang": "/data/image_data_watermark/59/36/5694/540030/531089/540030_mat_ngang_1562416393335.jpeg",
+                        "loaiCongTrinhId": 12
+                    }
+                }
+            ]
+        }
+    },
+    "description": "",
+    "timestamp": 1602606329
+}
